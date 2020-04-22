@@ -9,9 +9,9 @@ Requirements
 There are 2 types of uses
 1. Admin user
    In admin we have other three types of uses
-     a. Canteen user (canteen)
-     b. Accountant ( accountant)
-     c. Security (security)
+      1) Canteen user (canteen)
+      2) Accountant ( accountant)
+      3) Security (security)
 2. Students
 
 In this project the student can order food that order food can be seen by canteen holder through this we can keep the count for food.
