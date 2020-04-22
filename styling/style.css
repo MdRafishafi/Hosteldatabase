@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  text-align: center;
+  position: relative;
+  font-family: 'PT Mono', monospace;
+}
+
+h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+a {
+  color: #aeb6bf;
+}
+
+a:hover {
+  color: #eaecee;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+.menu {
+  background-color: #17202a;
+  color: #eaecee;
+  font-size: 1em;
+  padding-bottom: 1em;
+  text-align: right;
+  position: relative;
+  padding-right: 20px;
+}
+
+button {
+  margin-top: 10px;
+  color: #17202a;
+  font-size: 1em;
+  font-weight: bold;
+  outline-color: #17202a;
+  border-radius: 10px;
+}
+
+button:hover {
+  color: #ffff;
+  background-color: #aeb6bf;
+}
+
+.header {
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+  width: 100%;
+  vertical-align: middle;
+  font-family: 'Dancing Script', cursive;
+  background-color: #17202a;
+  color: #eaecee;
+}
+
+.reference {
+  padding-right: 20px;
+}
+
+.userinfo {
+  padding: 20px;
+}
+
+.card {
+  padding: 20px;
+  text-align: left;
+  margin-top: 10px;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.visitorInfo {
+  margin-top: 30px;
+  
+}
+
